@@ -19,6 +19,7 @@ in java it should look like this:
 ```
 If you are using java you can use our socketsender.
 
+
 If the AUTH_KEY you gave the server is correct he will try to send a socket to your server.
 NOTE: Only public servers will work. Your PC will automaticly block any connection by our server.
 
@@ -26,7 +27,7 @@ The server will return the follwing string:
 ```java
 CONNECTED (if you AUTH_KEY is correct)
 ERROR_ALREADY_CONNECTED (if you are already connected)
-ERROR_AUTH_KEY_NOT_VALID (if your AUTH_KEY) is not valid
+ERROR_AUTH_KEY_NOT_VALID (if your AUTH_KEY is not valid)
 ```
 
 NOTE: If you want to let the server know that your insatnce is shutting down send a socket with ```java DISCONNECT``` to the server.
