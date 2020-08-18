@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88d11104-db4b-42b3-8461-d638657d95ac" name="Default Changelist" comment="" />
+    <list default="true" id="88d11104-db4b-42b3-8461-d638657d95ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/shadowapi/network/SocketReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/shadowapi/network/SocketReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/shadowapi/types/ShadowType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/shadowapi/types/ShadowType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/shadowapi/types/TypeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/shadowapi/types/TypeConverter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gH5jOiqs3ZmjFkkSq1n6Ha6Yav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,6 +71,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="761" y="275" key="#Project_Structure" timestamp="1597760362284">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -69,21 +83,33 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1046" y="560" width="468" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597759196204" />
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1597760793016">
+    <state x="1126" y="603" key="Github.ShareDialog" timestamp="1597761295151">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597760793016" />
-    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1597760793016">
+    <state x="1126" y="603" key="Github.ShareDialog/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761295151" />
+    <state x="927" y="323" key="Github.UntrackedFilesDialog" timestamp="1597761301805">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597760793016" />
-    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1597760793016">
+    <state x="927" y="323" key="Github.UntrackedFilesDialog/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761301805" />
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1597761249277">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597760793016" />
-    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1597760793016">
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761249277" />
+    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1597761249277">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597760793016" />
+    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761249277" />
+    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1597761249277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761249277" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1597761249277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761249277" />
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2" timestamp="1597761313079">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.740.1920.1040@0.0.2560.1400" timestamp="1597761313079" />
   </component>
 </project>

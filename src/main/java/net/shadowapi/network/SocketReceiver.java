@@ -36,6 +36,14 @@ public class SocketReceiver {
                     ShadowType type = TypeConverter.convert(s);
                     if (type.equals(ShadowType.ERROR_AUTH_KEY_NOT_VALID)) {
                         ShadowAPI.getInstance().getLogger().warn("Auth key is not valid!");
+                    } else if (type.equals(ShadowType.REQUEST_BANNED)) {
+                        String[] data = s.split("=");
+                        boolean banned = Boolean.parseBoolean(data[1]);
+                        //Get if member is banned or if he is not banned
+                    } else if (type.equals(ShadowType.REQUEST_TYPE)) {
+                        String[] data = s.split("=");
+                        String banType = data[1];
+                        //Get the ban type. NONE=No ban
                     }
 
                 }
