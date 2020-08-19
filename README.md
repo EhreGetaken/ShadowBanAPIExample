@@ -2,7 +2,8 @@
 A example how to use the ShadowAPI for ShadowBan
 
 The API is based on a token wich only you and the server knows.
-To request data from our database you have to create a SocketSender in you coding language.
+To request data from our database you have to create a SocketSender and a SocketReceiver in you coding language.
+Your SocketReceiver should listen to the port ```9998```
 To connect to our servers use this information:
 ```java
 host: betterproject.net
